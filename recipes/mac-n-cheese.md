@@ -1,14 +1,9 @@
 ---
-title: "Rezepte"
-description: "Stöbere durch unsere Sammlung von Gemeinschaftsrezepten von Mitwirkenden aus aller Welt."
-draft: false
----
----
 # ── Basis ────────────────────────────────────────────────
 title: "Mac n' Cheese"
 date: 2026-06-18
 draft: false
-description: "Mc n' Cheese ist ein schnelles, käselastiges Gericht, das sich am besten für gemeinsame Anlässe wie Public-Viewing oder eine Grillparty eignet."
+description: "Mac n' Cheese ist ein schnelles, käselastiges Gericht, das sich am besten für gemeinsame Anlässe wie Public-Viewing oder eine Grillparty eignet."
 image: "static\images\recipes\Mac_n_Cheese.svg"
 
 # ── Einordnung ───────────────────────────────────────────
@@ -32,7 +27,7 @@ ingredients:
 
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
-  - "Zuerst die Milch in einen Topf geben und bei mittlerer hitze erhitzen. Danach die Butter in die warme Milch geben."
+  - "Zuerst die Milch in einen Topf geben und bei mittlerer Hitze erhitzen. Danach die Butter in die warme Milch geben."
   - "Danach die Nudeln in den Topf geben. Nach und nach den Käse unter ständigem rühren in kleinen Portionen hinzugeben, bis das ganze eine cremige Masse ist."
   - "Optional: Eine Zwiebel würfeln und in Butter rösten. Dies eignet sich hervorragend als Garnierung, um das Gericht abzurunden."
 ---
