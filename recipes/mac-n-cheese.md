@@ -1,4 +1,8 @@
 ---
+title: "Mac n' Cheese"
+description: "Mac n' Cheese ist ein Sättigendes, schnelles Gericht. Perfekt für mehrere Personen."
+draft: false
+---
 # ── Basis ────────────────────────────────────────────────
 title: "Mac n' Cheese"
 date: 2026-06-18
@@ -20,7 +24,7 @@ cook_time: "25 Min."
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
   - "500g Maccaroni"
-  - "21.3 L Vollmilch"
+  - "1.3 L Vollmilch"
   - "3 EL Butter"
   - "300 g würziger Käse, zB. Cheddar, parmesan oder Emmentaler."
   - "Salz und Pfeffer nach Geschmack"
