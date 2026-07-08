@@ -8,7 +8,7 @@ title: "Mac n' Cheese"
 date: 2026-06-18
 draft: false
 description: "Mac n' Cheese ist ein schnelles, käselastiges Gericht, das sich am besten für gemeinsame Anlässe wie Public-Viewing oder eine Grillparty eignet."
-image: "static\images\recipes\Mac_n_Cheese.svg"
+image: "images/recipes/Mac_N_Cheese.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptgericht"]
